@@ -1,0 +1,29 @@
+
+
+.main {
+  background-color: #2d3250;
+  height: 110vh;
+}
+
+.navclr {
+  background-color: #424769;
+}
+
+.link {
+  padding: 15px
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+label {
+  display: block;
+  padding: 5px
+}
+
+input {
+  width: 80%;
+  padding: 8px;
+  font-size: 16px;
+}
